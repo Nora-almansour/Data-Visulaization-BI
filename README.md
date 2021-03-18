@@ -1,13 +1,10 @@
 # COVID-19 World Vaccination Progress
 
 This dashboard is visualizing COVID-19 world vaccination progress. It utilizes daily and total Vaccination for COVID-19 in the world.Furthermore, you can filter dashboard by country and\or time duration to figure out vaccination progress.
-<img src="https://raw.githubusercontent.com/Nora-almansour/Data-Visulaization-BI/main/COVID-19%20World%20Vaccination%20Progress.png" width="700" height="500"> 
+   <img src="https://raw.githubusercontent.com/Nora-almansour/Data-Visulaization-BI/main/COVID-19%20World%20Vaccination%20Progress.png" width="800" height="500"> 
 
 ## Context
 Data is collected daily from https://ourworldindata.org/ in Data GitHub repository for covid-19, merged and uploaded. Then, taken from Kaggle. Currently, I cleaned and filtered data to make dataset limited in some countries around the world.
-
-## License
-CC0: Public Domain 
 
 <table style="width:100%">
   <tr>
